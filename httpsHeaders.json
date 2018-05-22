@@ -1,0 +1,49 @@
+{
+  "headers": [
+    {
+      "name": "Access-Control",
+      "header-type": "response",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control"
+    },
+    {
+      "name": "Access-Control-Allow-Origin",
+      "header-type": "response",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+    {
+      "name": "Access-Control-Max-Age",
+      "header-type": "response",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+    {
+      "name": "Access-Control-Allow-Credentials",
+      "header-type": "response",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+    {
+      "name": "Access-Control-Allow-Methods",
+      "header-type": "response",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+    {
+      "name": "Access-Control-Allow-Headers",
+      "header-type": "response",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+     {
+      "name": "Origin",
+      "header-type": "request",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+    {
+      "name": "Access-Control-Request-Method",
+      "header-type": "request",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    },
+     {
+      "name": "Access-Control-Request-Headers",
+      "header-type": "request",
+      "url": "https://www.iana.org/assignments/message-headers/prov/access-control-allow-credentials"
+    }
+  ]
+}
